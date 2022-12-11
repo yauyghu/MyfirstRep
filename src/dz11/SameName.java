@@ -1,4 +1,4 @@
-package dz3;
+package dz11;
 
 public class SameName {
 }

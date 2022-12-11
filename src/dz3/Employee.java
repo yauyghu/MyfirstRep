@@ -1,13 +1,13 @@
 package dz3;
 
-public class Workers {
+public class Employee {
     private String name;
     private String position;
     private String email;
     private String phone;
     private int age;
 
-    public Workers(String name, String position, String email, String phone, int age) {
+    public Employee(String name, String position, String email, String phone, int age) {
         this.name = name;
         this.position = position;
         this.email = email;
